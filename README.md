@@ -1,3 +1,3 @@
-# ASM-PROJECTS
+# Assembly-Projects
 
-writen in texeditor  builld by NASM.
+Writen in texeditor  builld by NASM.
