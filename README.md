@@ -1,3 +1,3 @@
 # Assembly-Projects
 
-Writen in texeditor  builld by NASM.
+Writen in Emacs  builld by NASM.
