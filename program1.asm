@@ -4,7 +4,8 @@ section	.text
 	
 	
 _start:	            
-  mov eax,ebx
+	mov eax,10
+	mov ebx,11
  
 
 	
