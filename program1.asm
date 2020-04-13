@@ -1,15 +1,18 @@
-section	.text
-	global _start
+	section .text
+	
+	     global _start
 
-	
-	
-_start:	            
-	mov eax,10
+_start:
+
+	mov eax,11
+
 	mov ebx,11
- 
 
+	mov ecx,11
+
+	mov edx,11 
+
+
+	section .data
 	
 
-section	.data 			;TODO
-
-	
